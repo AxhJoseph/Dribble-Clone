@@ -35,9 +35,8 @@ All images used in this project are the property of **Dribbble** and are include
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Author
-Created by [Your Name](https://github.com/AxhJoseph).
+Created by [Ashish Joseph](https://github.com/AxhJoseph).
 Feel free to reach out or share your feedback!
 
 ## Acknowledgments
 - Special thanks to Dribbble for being a source of design inspiration.
-
