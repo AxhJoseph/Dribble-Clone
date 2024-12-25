@@ -1,7 +1,3 @@
-# Dribble-Clone
-A simple dribble clone made with html and css.
-
-
 # Dribbble Clone
 
 A simple clone of Dribbble's user interface, built entirely using **HTML** and **CSS**. This project is designed to replicate Dribbble's clean and creative design while enhancing my front-end development skills.
