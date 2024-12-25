@@ -8,17 +8,19 @@ A simple clone of Dribbble's user interface, built entirely using **HTML** and *
 - CSS animations and transitions for better user experience
 
 ## Demo
-Check out the live demo here: [Live Preview Link](#)
+NOT AVAILABLE
 
 ## Screenshots
-![Screenshot 1](#)
-*Add a screenshot or GIF showcasing your project here.*
+
+![screencapture-127-0-0-1-5500-project-dribble-index-html-2024-12-25-09_51_56](https://github.com/user-attachments/assets/da220dee-847f-41d4-ac70-cc114897a017)
+![Screenshot 2024-12-25 111234](https://github.com/user-attachments/assets/87b2384d-1a82-4372-b65d-0d488c9e02a9)
+![Screenshot 2024-12-25 111256](https://github.com/user-attachments/assets/9c0c09b8-b8ba-45c4-8f19-7e0cde2f08a2)
 
 ## Installation
 To view the project locally:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Dribbble-Clone.git
+   git clone https://github.com/AxhJoseph/Dribble-Clone.git
    ```
 2. Open the `index.html` file in your browser.
 
@@ -33,7 +35,7 @@ All images used in this project are the property of **Dribbble** and are include
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Author
-Created by [Your Name](https://github.com/<your-username>).
+Created by [Your Name](https://github.com/AxhJoseph).
 Feel free to reach out or share your feedback!
 
 ## Acknowledgments
