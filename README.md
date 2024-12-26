@@ -30,6 +30,7 @@ To view the project locally:
 
 ## Note
 All images used in this project are the property of **Dribbble** and are included here solely for demonstration purposes. They are not distributed or used for commercial purposes.
+Note: If you are the licensed owner of any images used in this project and would like them removed, please contact me at mail.axhjoseph@gmail.com.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
